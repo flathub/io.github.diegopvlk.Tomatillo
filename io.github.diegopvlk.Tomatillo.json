@@ -38,13 +38,8 @@
 				{
 					"type": "git",
 					"url": "https://github.com/diegopvlk/Tomatillo",
-					"tag": "v1.0.4",
-					"commit": "67dc683980c93eeffa7af126527463ba2e5909b8",
-					"x-checker-data": {
-						"type": "git",
-						"tag-pattern": "^v([\\d.]+)$",
-						"is-main-source": true
-					} 
+					"tag": "v1.0.5",
+					"commit": "92f557812ea84ef4da4b66f60294cdc1eca4354c"
 				}
 			]
 		}
