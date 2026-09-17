@@ -1,7 +1,7 @@
 {
 	"id": "io.github.diegopvlk.Tomatillo",
 	"runtime": "org.gnome.Platform",
-	"runtime-version": "50",
+	"runtime-version": "51",
 	"sdk": "org.gnome.Sdk",
 	"command": "tomatillo",
 	"finish-args": [
@@ -25,8 +25,8 @@
 				{
 					"type": "git",
 					"url": "https://github.com/flatpak/libportal",
-					"tag": "0.10.0",
-					"commit": "c23024018c8eb076549a1517fcb2d7f80d3e2ed5"
+					"tag": "0.11.0",
+					"commit": "fc4d62cfe131e8494c82f597f92b2234d584c367"
 				}
 			]
 		},
